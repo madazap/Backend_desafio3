@@ -1,0 +1,92 @@
+[
+  {
+    "contador": "cgb57cjc0333",
+    "title": "chaqueta negra plumas",
+    "description": "Chaqueta plumas invierno Men, negra",
+    "price": "170",
+    "thumbnail": "/prendas/chaqueta_negra.png",
+    "code": "7989",
+    "stock": 12
+  },
+  {
+    "contador": "8gjh34f714hg5",
+    "title": "Chaqueta invierno",
+    "description": "Chaqueta plumas invierno Men, negra",
+    "price": "170",
+    "thumbnail": "/prendas/chaqueta_negra.png",
+    "code": "7989",
+    "stock": 12
+  },
+  {
+    "contador": "09fbj808cj3b2f",
+    "title": "Chaqueta invierno",
+    "description": "Chaqueta plumas invierno Men, negra",
+    "price": "170",
+    "thumbnail": "/prendas/chaqueta_negra.png",
+    "code": "7989",
+    "stock": 12
+  },
+  {
+    "contador": "a36e2beifg2b",
+    "title": "Chaqueta invierno",
+    "description": "Chaqueta plumas invierno Men, negra",
+    "price": "170",
+    "thumbnail": "/prendas/chaqueta_negra.png",
+    "code": "7989",
+    "stock": 12
+  },
+  {
+    "contador": "cgb57cjc0334",
+    "title": "chaqueta roja plumas",
+    "description": "Chaqueta plumas invierno Men, roja",
+    "price": "179",
+    "thumbnail": "/prendas/chaqueta_roja.png",
+    "code": "7980",
+    "stock": 11
+  },
+  {
+    "contador": "cgb57cjc0335",
+    "title": "Abrigo amarillo niños",
+    "description": "Abrigo amarillo niños, invierno 2023",
+    "price": "150",
+    "thumbnail": "/prendas/chaqueta_ama_ninos.png",
+    "code": "7999",
+    "stock": 9
+  },
+  {
+    "contador": "cgb57cjc0336",
+    "title": "Guantes invierno",
+    "description": "Guantes cuero negro invierno",
+    "price": "50",
+    "thumbnail": "/prendas/guantes_negros.png",
+    "code": "7199",
+    "stock": 22
+  },
+  {
+    "contador": "cgb57cjc0338",
+    "title": "Bufanda cafe",
+    "description": "Bufanda invierno 2022",
+    "price": "150",
+    "thumbnail": "/prendas/chaqueta_ama_ninos.png",
+    "code": "7189",
+    "stock": 7
+  },
+  {
+    "contador": "cgb57cjc0339",
+    "title": "Gorro invierno",
+    "description": "Gorro invierno",
+    "price": "10",
+    "thumbnail": "/prendas/chaqueta_ama_ninos.png",
+    "code": "7191",
+    "stock": 2
+  },
+  {
+    "contador": "cgb57cjc0349",
+    "title": "Gorra estaciones",
+    "description": "Gorro invierno- otoño 2021",
+    "price": "34",
+    "thumbnail": "/prendas/chaqueta_ama_ninos.png",
+    "code": "7195",
+    "stock": 13
+  }
+]
